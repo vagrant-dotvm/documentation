@@ -5,4 +5,5 @@
 * [Salt](salt.md)
 * [CFEngine](cf_engine.md)
 * [Ansible](ansible.md)
+* [Ansible Local](ansible_local.md)
 
